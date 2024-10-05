@@ -1,0 +1,94 @@
+@CHARSET "UTF-8";
+body{
+	/* background-color:#404040; */
+	background-image: url("diam.jpg");
+	
+	
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	/* color: rgb(0,0,0); */
+	color: #A8B7D9;
+}
+
+h2{
+	/* color: #5c3566000; */
+	text-decoration: underline;
+	color: #E25D33;
+}
+
+a{
+	color: #FEFEFE;
+	font-size: 1.2em;
+	text-transform: capitalize;
+}
+
+
+a:visited{color: #FEFEFE;} 
+a:hover{color: #4c2e8c;}
+
+select {
+   margin: 10px;
+  padding: 10px; 
+  border: 2px solid blue; 
+  width: 200px;
+  border-radius: 5px;
+}
+
+option {
+	color : #3D9970;
+	font-family: "comic sans MS";	
+}
+
+#prop{
+	color: #988F14;
+	margin: 2px;
+  padding: 2px;
+	font-size: 1.25em;
+	
+}
+
+
+#val{
+	color: #23C660;
+	margin: 2px;
+  padding: 2px;
+	font-family: "comic sans MS";
+	
+}
+
+table {
+	bgcolor:#0C0E15;
+    border: solid #000C49;
+}
+th {
+    padding: 8px;
+    text-align: center;
+    color: #3fb0ac;
+}
+td{
+	padding: 8px;
+    text-align: center;
+	color: #daad86;
+}
+
+ tr:hover {background-color: #729f98;}
+
+ 
+#chat{
+	background-image: url("diam.jpg");
+	hover: nohover;
+	border: none;
+}
+
+
+
+input{
+	font-size: 1em;
+	border: 2px solid #2A3F94;
+    border-radius: 2px;
+    background-color: #FFF958;
+}
+
+
